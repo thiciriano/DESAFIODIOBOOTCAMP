@@ -1,4 +1,4 @@
-# 📺 YouTube Minimal - Projeto Clonando Interface de Vídeo
+# 📺 YouTube  - Projeto Clonando Interface de Vídeo do Youtube
 
 Este projeto faz parte do **Bootcamp Santander Frontend 2025** da [DIO](https://www.dio.me/), onde o desafio é **clonar uma página do YouTube** utilizando **HTML e CSS com Flexbox**, colocando em prática os conceitos de layout responsivo, semântica e Flexbox
 
